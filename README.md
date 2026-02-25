@@ -1,69 +1,94 @@
-# TaskMind AI
+# 🧠 TaskMind AI
 
-TaskMind AI is a modern, clean-architecture Android application built with Kotlin that merges traditional task management with intelligent AI capabilities. 
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-7.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-Auth/DB/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-AI_Mentor-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
 
-Built as a demonstration of production-ready Android development, TaskMind AI features a beautiful Canvas-based UI, realtime cloud synchronization, and smart sub-task suggestions powered by Google's Gemini API.
-
-## 🚀 Features
-
-### Phase 1: Authentication & User Accounts
-- Secure Firebase Email/Password Authentication
-- Premium Login & Registration UI with smooth transitions
-- Persistent session state management
-
-### Phase 2: Realtime Database & MVVM Structure
-- Real-time task synchronization via Firebase Realtime Database
-- Clean MVVM (Model-View-ViewModel) Architecture
-- LiveData & Kotlin Coroutines for reactive, non-blocking UI updates
-- Add, Edit, and Delete tasks with immediate UI reflection
-
-### Phase 3: Advanced Custom UI
-- Custom `Canvas`-based Circular Progress Ring to track daily completion
-- Animated Strike-through effects for completed tasks
-- Smooth screen-to-screen slide transitions using `overridePendingTransition`
-
-### Phase 4: Network Architecture
-- Robust `Retrofit` client implementation with `Gson` parsing
-- Coroutine-based API calls (`suspend` functions)
-- Structured `Resource` wrapper for Success, Error, and Loading state management
-
-### Phase 5 & 6: Gemini AI Smart Features
-- Integrated Google Gemini AI via Retrofit
-- Context-aware prompting: AI reads your current tasks to provide relevant advice
-- Smart Actions: "AI Assist" button automatically generates sub-task suggestions for complex tasks
-- Real-time Chat UI with "Typing..." animations and distinctive chat bubbles
-
-### Phase 7: Cloud Messaging (FCM)
-- Firebase Cloud Messaging integration for remote notifications
-- Local system notifications with channels for task reminders
-- Background/Foreground message handling
-- Runtime notification permissions for Android 13+ (Tiramisu)
-
-### Phase 8 & 9: UX Polish & Robustness
-- Spring-physics micro-interactions on Floating Action Buttons
-- Staggered entry animations for chat messages
-- Comprehensive Error Handling: specific messaging for API Rate Limits (429) and Offline states (`UnknownHostException`)
-- Non-intrusive `Snackbar` alerts for graceful degradation
-
-## 🛠 Tech Stack
-- **Language**: Kotlin
-- **Architecture**: MVVM
-- **UI**: XML Layouts, Material Design Components, Custom Views
-- **Async & Reactive**: Kotlin Coroutines, LiveData, ViewModel
-- **Networking**: Retrofit2, Gson
-- **Backend & Auth**: Firebase Auth, Firebase Realtime Database, Firebase Cloud Messaging (FCM)
-- **AI**: Google Gemini Pro API
-
-## 📋 Evaluation Demo Flow
-
-To verify the functionality of the app, follow this flow:
-1. **Launch App**: Observe the Login Screen. Register a new user account.
-2. **Dashboard**: Observe the Progress Ring (0%). Click the animated `+` FAB to add a task.
-3. **Database Sync**: Add a few tasks. Then toggle a checkbox and watch the Progress Ring animate smoothly.
-4. **AI Context Injection**: Click an existing task to edit it, then tap **AI Assist**. The app will transition to the AI Chat screen and automatically ask Gemini to break the task down into sub-tasks.
-5. **AI Chat Animations**: Observe the "Typing..." loader and the slide-in animation of the AI's response. Ask a follow-up question.
-6. **Network Robustness**: Turn off internet access and try sending a message. Observe the graceful `Snackbar` indicating offline status.
-7. **Firebase Notifications**: Application is primed to receive FCM messages via the backend.
+TaskMind AI is an industry-grade Android application that elevates task management through an intelligent, AI-driven personal mentor. Built with a focus on modern **Clean Architecture**, **MVVM**, and **Material 3**, it seamlessly merges traditional productivity with the power of Google's Gemini API.
 
 ---
+
+## ✨ Key Pillar Features
+
+### 🤖 Intelligent AI Mentorship
+- **Context-Aware Support**: The built-in AI Mentor understands your tasks. Clicking the "AI Assist" button provides instant, tailored advice.
+- **Auto-Subtask Generation**: Stop overthinking. Let Gemini break down complex goals into actionable 1-2-3 steps.
+- **Dynamic Chat Interface**: Professional realtime chat UI with "Typing..." indicators and smooth animations.
+
+### 🛡️ Production-Ready Auth Flow
+- **Industry Standards**: Registration flow includes real-time validation, name persistence in Firebase Realtime Database, and Material 3 design.
+- **Session Persistence**: Automatic secure login using Firebase Auth.
+- **UX Polish**: Custom shake animations for input errors and refined transition effects.
+
+### 📊 Advanced Data Visualization
+- **Canvas Progress Ring**: A custom-drawn circular progress view that dynamically tracks your daily completion percentage.
+- **Realtime Sync**: Powered by Firebase Realtime Database for instantaneous updates across devices.
+- **Reactive UI**: Built entirely on LiveData and ViewModels for a fluid, lag-free experience.
+
+### 🔔 Smart Multi-Channel Notifications
+- Full integration with **Firebase Cloud Messaging (FCM)**.
+- Android 13+ runtime permission handling.
+- Local system notifications with dedicated channels for productivity reminders.
+
+---
+
+## 🏗️ Architecture: The "Pro" Stack
+
+TaskMind AI is built for scalability and maintainability, adhering to **SOLID** principles:
+
+- **UI Layer**: Material 3 components, View Binding, and Activity-based navigation.
+- **Domain Layer**: Clean Model-specific business logic.
+- **Data Layer (Repository Pattern)**: Decoupled data sources (Firebase, Retrofit) from the UI layer.
+- **API Strategy**: Coroutine-based Retrofit implementation with custom `Result` wrappers for graceful error handling.
+
+---
+
+## 🛠 Tech Stack & Tools
+
+| Category | Technology |
+| :--- | :--- |
+| **Language** | Kotlin (Coroutines, Flow) |
+| **Arch** | MVVM, Repository Pattern, Clean Architecture |
+| **Backend** | Firebase Auth, Realtime Database, FCM |
+| **Networking** | Retrofit 2, Gson, OkHttp |
+| **AI** | Google Gemini API (Vertex AI/Generative AI) |
+| **UI/UX** | Custom Canvas Views, Material 3, ViewBinding |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Android Studio Hedgehog+ 
+- Firebase Project (google-services.json included)
+- Gemini API Key ([Get it here](https://aistudio.google.com/))
+
+### Setup
+1. **Clone the project**:
+   ```bash
+   git clone https://github.com/Srikar-Merugu/TaskMind-AI.git
+   ```
+2. **Add API Keys**:
+   Create a `local.properties` file in the root and add:
+   ```properties
+   gemini.api.key=YOUR_API_KEY
+   ```
+3. **Run**:
+   Sync Gradle and deploy to your device or emulator.
+
+---
+
+## 🤝 Contributions
+
+Developed by **Srikar** and **Nirajlpu**. We welcome contributions that align with the high-quality standards of this project.
+
+- **Srikar**: Lead Architectural Design & AI Integration
+- **Nirajlpu**: Core Features & Collaboration
+
+---
+
+## 📜 License
+Distributed under the MIT License. See `LICENSE` for more information.
+
 *Built as a Phase 10 validation project for Industry-level UI/UX and Clean Architecture.*
