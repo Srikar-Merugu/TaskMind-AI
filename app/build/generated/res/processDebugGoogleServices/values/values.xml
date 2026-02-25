@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://ai-task-android-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">595471646334</string>
+    <string name="google_api_key" translatable="false">AIzaSyB8Kkfzu5K-Awlsak22CUl7FhbzZENiBmI</string>
+    <string name="google_app_id" translatable="false">1:595471646334:android:9bd85d85bd8dd92fd6222f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB8Kkfzu5K-Awlsak22CUl7FhbzZENiBmI</string>
+    <string name="google_storage_bucket" translatable="false">ai-task-android.firebasestorage.app</string>
+    <string name="project_id" translatable="false">ai-task-android</string>
+</resources>

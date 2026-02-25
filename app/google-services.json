@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "595471646334",
+    "firebase_url": "https://ai-task-android-default-rtdb.firebaseio.com",
+    "project_id": "ai-task-android",
+    "storage_bucket": "ai-task-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595471646334:android:9bd85d85bd8dd92fd6222f",
+        "android_client_info": {
+          "package_name": "com.aitask.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Kkfzu5K-Awlsak22CUl7FhbzZENiBmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

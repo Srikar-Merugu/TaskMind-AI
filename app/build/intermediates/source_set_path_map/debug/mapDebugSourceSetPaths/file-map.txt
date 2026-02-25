@@ -1,0 +1,53 @@
+com.taskmind.app-core-ktx-1.13.1-0 /Users/srikartest/.gradle/caches/8.11.1/transforms/00c6ef33ca53aca3122a3b445e2303f5/transformed/core-ktx-1.13.1/res
+com.taskmind.app-appcompat-1.6.1-1 /Users/srikartest/.gradle/caches/8.11.1/transforms/03a4907bc6951449aef24f97c31655f7/transformed/appcompat-1.6.1/res
+com.taskmind.app-lifecycle-viewmodel-2.7.0-2 /Users/srikartest/.gradle/caches/8.11.1/transforms/0dd89ab26f8e2309cc3435235de46f6e/transformed/lifecycle-viewmodel-2.7.0/res
+com.taskmind.app-lifecycle-viewmodel-ktx-2.7.0-3 /Users/srikartest/.gradle/caches/8.11.1/transforms/0fefc067501d2cc33d99f2e72c66cc05/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.taskmind.app-firebase-common-20.4.3-4 /Users/srikartest/.gradle/caches/8.11.1/transforms/15e9d7c199f05b3e3d6cc02c3f0e3a5d/transformed/firebase-common-20.4.3/res
+com.taskmind.app-credentials-1.3.0-5 /Users/srikartest/.gradle/caches/8.11.1/transforms/1e94956d71eb55268e090d93ce078e49/transformed/credentials-1.3.0/res
+com.taskmind.app-credentials-play-services-auth-1.3.0-6 /Users/srikartest/.gradle/caches/8.11.1/transforms/1f777134cef018231de92471c06a6ff7/transformed/credentials-play-services-auth-1.3.0/res
+com.taskmind.app-emoji2-views-helper-1.2.0-7 /Users/srikartest/.gradle/caches/8.11.1/transforms/225ee596b595d13bf5bd2458831f3ba5/transformed/emoji2-views-helper-1.2.0/res
+com.taskmind.app-annotation-experimental-1.4.0-8 /Users/srikartest/.gradle/caches/8.11.1/transforms/2767ad49050e4aa883b402a006aa822f/transformed/annotation-experimental-1.4.0/res
+com.taskmind.app-lifecycle-viewmodel-savedstate-2.7.0-9 /Users/srikartest/.gradle/caches/8.11.1/transforms/354d1f55c4e25db9c0779b0b7cfd6694/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.taskmind.app-play-services-base-18.3.0-10 /Users/srikartest/.gradle/caches/8.11.1/transforms/394e9e2668c6193d3cb282e2c43829bb/transformed/play-services-base-18.3.0/res
+com.taskmind.app-lifecycle-livedata-2.7.0-11 /Users/srikartest/.gradle/caches/8.11.1/transforms/3fc7a77891ecd95487781386ce09dfe7/transformed/lifecycle-livedata-2.7.0/res
+com.taskmind.app-activity-1.8.2-12 /Users/srikartest/.gradle/caches/8.11.1/transforms/6ff219e467518c0e425d7f766daa5c16/transformed/activity-1.8.2/res
+com.taskmind.app-savedstate-1.2.1-13 /Users/srikartest/.gradle/caches/8.11.1/transforms/7c28af0f9c029ae60c602f72cab73175/transformed/savedstate-1.2.1/res
+com.taskmind.app-drawerlayout-1.1.1-14 /Users/srikartest/.gradle/caches/8.11.1/transforms/81f284a88eb454b555c1859bff1726bb/transformed/drawerlayout-1.1.1/res
+com.taskmind.app-lifecycle-livedata-ktx-2.7.0-15 /Users/srikartest/.gradle/caches/8.11.1/transforms/846fa1978ce3f993584b012a3757e69f/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.taskmind.app-activity-ktx-1.8.2-16 /Users/srikartest/.gradle/caches/8.11.1/transforms/8b8a5ffd3f582d38169a70e7bf32a922/transformed/activity-ktx-1.8.2/res
+com.taskmind.app-play-services-auth-20.7.0-17 /Users/srikartest/.gradle/caches/8.11.1/transforms/8d0b2bfbd0ee852ec8883089f4a9739e/transformed/play-services-auth-20.7.0/res
+com.taskmind.app-play-services-basement-18.3.0-18 /Users/srikartest/.gradle/caches/8.11.1/transforms/90900c74a5c8d1b407515b75f6a6b945/transformed/play-services-basement-18.3.0/res
+com.taskmind.app-firebase-ui-auth-8.0.2-19 /Users/srikartest/.gradle/caches/8.11.1/transforms/947a740cb81fce6281178f9035f97f45/transformed/firebase-ui-auth-8.0.2/res
+com.taskmind.app-lifecycle-livedata-core-ktx-2.7.0-20 /Users/srikartest/.gradle/caches/8.11.1/transforms/9bf530148bedad8bfc7cf60d120a0dd0/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.taskmind.app-lifecycle-runtime-2.7.0-21 /Users/srikartest/.gradle/caches/8.11.1/transforms/a538c92748132d5a06967c19e748273b/transformed/lifecycle-runtime-2.7.0/res
+com.taskmind.app-fragment-1.6.2-22 /Users/srikartest/.gradle/caches/8.11.1/transforms/ae00e018bbf0e09f3b07f5dc31e15432/transformed/fragment-1.6.2/res
+com.taskmind.app-constraintlayout-2.1.4-23 /Users/srikartest/.gradle/caches/8.11.1/transforms/aea7c2d1ab9f7e48f9cea53f3cc37184/transformed/constraintlayout-2.1.4/res
+com.taskmind.app-startup-runtime-1.1.1-24 /Users/srikartest/.gradle/caches/8.11.1/transforms/b2327b5a0423d84f52f8b435dd9d46ea/transformed/startup-runtime-1.1.1/res
+com.taskmind.app-core-1.13.1-25 /Users/srikartest/.gradle/caches/8.11.1/transforms/b525b813aeaba812c31bc95f6338fe09/transformed/core-1.13.1/res
+com.taskmind.app-cardview-1.0.0-26 /Users/srikartest/.gradle/caches/8.11.1/transforms/bbe5bf36148906db8a2e3e8a621f3f04/transformed/cardview-1.0.0/res
+com.taskmind.app-lifecycle-livedata-core-2.7.0-27 /Users/srikartest/.gradle/caches/8.11.1/transforms/c0b2f75ad05c0a5edee22e1bfe81d79b/transformed/lifecycle-livedata-core-2.7.0/res
+com.taskmind.app-lifecycle-runtime-ktx-2.7.0-28 /Users/srikartest/.gradle/caches/8.11.1/transforms/c8863ce1f7e8ff549fa590ff93f14378/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.taskmind.app-emoji2-1.2.0-29 /Users/srikartest/.gradle/caches/8.11.1/transforms/cad104159c8e0956969d7d0d6c277dfb/transformed/emoji2-1.2.0/res
+com.taskmind.app-firebase-messaging-23.4.1-30 /Users/srikartest/.gradle/caches/8.11.1/transforms/cb336dfeaf88809a5ec8511a62249cc1/transformed/firebase-messaging-23.4.1/res
+com.taskmind.app-transition-1.2.0-31 /Users/srikartest/.gradle/caches/8.11.1/transforms/cb4faa057e9219bf5eb61663d496a953/transformed/transition-1.2.0/res
+com.taskmind.app-lifecycle-service-2.7.0-32 /Users/srikartest/.gradle/caches/8.11.1/transforms/cc2edc5aa9e48ca00c6c1972663402ec/transformed/lifecycle-service-2.7.0/res
+com.taskmind.app-browser-1.4.0-33 /Users/srikartest/.gradle/caches/8.11.1/transforms/cedf78a3af72e413c723fd12d0bccf04/transformed/browser-1.4.0/res
+com.taskmind.app-savedstate-ktx-1.2.1-34 /Users/srikartest/.gradle/caches/8.11.1/transforms/d7ebb809a7723b6b89117e104ac6c85d/transformed/savedstate-ktx-1.2.1/res
+com.taskmind.app-viewpager2-1.0.0-35 /Users/srikartest/.gradle/caches/8.11.1/transforms/d81589326828d873c5474fbb60e0ef48/transformed/viewpager2-1.0.0/res
+com.taskmind.app-core-runtime-2.2.0-36 /Users/srikartest/.gradle/caches/8.11.1/transforms/d9024940235ac0bb2fb81081caddabcd/transformed/core-runtime-2.2.0/res
+com.taskmind.app-media-1.0.0-37 /Users/srikartest/.gradle/caches/8.11.1/transforms/da7e817944d4f623677bb98b30ddbefa/transformed/media-1.0.0/res
+com.taskmind.app-profileinstaller-1.3.0-38 /Users/srikartest/.gradle/caches/8.11.1/transforms/dc75eaf16f6f6e5463aef53ff1b2014a/transformed/profileinstaller-1.3.0/res
+com.taskmind.app-lifecycle-process-2.7.0-39 /Users/srikartest/.gradle/caches/8.11.1/transforms/e5113712191d83c7b98ad8edbcd515b1/transformed/lifecycle-process-2.7.0/res
+com.taskmind.app-recyclerview-1.1.0-40 /Users/srikartest/.gradle/caches/8.11.1/transforms/e6cd80b8acf502404416ffbee4444b50/transformed/recyclerview-1.1.0/res
+com.taskmind.app-coordinatorlayout-1.1.0-41 /Users/srikartest/.gradle/caches/8.11.1/transforms/e92174c21bbd1d846c31fc79c7e75131/transformed/coordinatorlayout-1.1.0/res
+com.taskmind.app-fragment-ktx-1.6.2-42 /Users/srikartest/.gradle/caches/8.11.1/transforms/f405b9a3305c33dc99f8319ef91baca9/transformed/fragment-ktx-1.6.2/res
+com.taskmind.app-appcompat-resources-1.6.1-43 /Users/srikartest/.gradle/caches/8.11.1/transforms/f7e5ebf1ef47eb9caaee47a4dca6d977/transformed/appcompat-resources-1.6.1/res
+com.taskmind.app-material-1.11.0-44 /Users/srikartest/.gradle/caches/8.11.1/transforms/fbe8ff01b3a0feb0fdfda69e4e217cfa/transformed/material-1.11.0/res
+com.taskmind.app-pngs-45 /Users/srikartest/Desktop/TaskMind AI/app/build/generated/res/pngs/debug
+com.taskmind.app-res-46 /Users/srikartest/Desktop/TaskMind AI/app/build/generated/res/processDebugGoogleServices
+com.taskmind.app-resValues-47 /Users/srikartest/Desktop/TaskMind AI/app/build/generated/res/resValues/debug
+com.taskmind.app-packageDebugResources-48 /Users/srikartest/Desktop/TaskMind AI/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.taskmind.app-packageDebugResources-49 /Users/srikartest/Desktop/TaskMind AI/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.taskmind.app-debug-50 /Users/srikartest/Desktop/TaskMind AI/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.taskmind.app-debug-51 /Users/srikartest/Desktop/TaskMind AI/app/src/debug/res
+com.taskmind.app-main-52 /Users/srikartest/Desktop/TaskMind AI/app/src/main/res
