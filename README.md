@@ -33,6 +33,16 @@ TaskMind AI is an industry-grade Android application that elevates task manageme
 
 ---
 
+## 📱 Visual Experience
+
+<p align="center">
+  <img src="screenshots/login.png" width="30%" alt="Login Success" />
+  <img src="screenshots/dashboard.png" width="30%" alt="Main Dashboard" />
+  <img src="screenshots/ai_mentor.png" width="30%" alt="AI Mentor" />
+</p>
+
+---
+
 ## 🏗️ Architecture: The "Pro" Stack
 
 TaskMind AI is built for scalability and maintainability, adhering to **SOLID** principles:
